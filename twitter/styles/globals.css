@@ -1,3 +1,4 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -10,4 +11,3 @@
 body{
   @apply h-full bg-black
 }
-
